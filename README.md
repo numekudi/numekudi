@@ -5,7 +5,6 @@
 - ✍️ Writing on [Qiita](https://qiita.com/numekudi)
 - 🔭 Expertise: Image Processing, AI Implementation
 - 💬 Languages: TypeScript, Python, Rust (work experience)
-- 📫 Contact: [Your Email or Twitter]
 
 **🔧 Tech Stack**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
