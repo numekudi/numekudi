@@ -1,16 +1,16 @@
-## Hi there 👋
+### 👋 Hi, I'm numekudi
 
-<!--
-**numekudi/numekudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🚀 About Me**  
+- 💼 Currently: Looking for new opportunities
+- ✍️ Writing on [Qiita](https://qiita.com/numekudi)
+- 🔭 Expertise: Image Processing, AI Implementation
+- 💬 Languages: TypeScript, Python, Rust (work experience)
+- 📫 Contact: [Your Email or Twitter]
 
-Here are some ideas to get you started:
+**🔧 Tech Stack**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**📘 Recent Qiita Posts**  
+[Latest Posts on Qiita](https://qiita.com/numekudi)
