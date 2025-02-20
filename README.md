@@ -3,7 +3,7 @@
 **🚀 About Me**  
 - 💼 Currently: Looking for new opportunities
 - ✍️ Writing on [Qiita](https://qiita.com/numekudi)
-- 🔭 Expertise: Image Processing, AI Implementation
+- 🔭 Expertise: Image Processing, AI Social Implementation（Not a data scientist）
 - 💬 Languages: TypeScript, Python, Rust (work experience)
 
 **🔧 Tech Stack**  
