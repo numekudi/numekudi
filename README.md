@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm numekudi
 
 **🚀 About Me**  
-- 💼 Currently: Looking for new opportunities
 - ✍️ Writing on [Qiita](https://qiita.com/numekudi)
 - 🔭 Expertise: Image Processing, AI Social Implementation（Not a data scientist）
 - 💬 Languages: TypeScript, Python, Rust (work experience)
@@ -11,5 +10,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**📘 Recent Qiita Posts**  
+**📘 Articles**  
 [Latest Posts on Qiita](https://qiita.com/numekudi)
+[Latest Posts on Zenn](https://zenn.dev/numekudi)
