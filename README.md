@@ -7,19 +7,18 @@
 - [Latest Posts on Qiita](https://qiita.com/numekudi)
 - [Latest Posts on Zenn](https://zenn.dev/numekudi)
 
-<details>
-<summary>work experience / certifications</summary>
 
-## Cloud
+## work experience / certifications
+
+### Cloud
 
 - Google Cloud ACE
-![Associate_Linkedin@2x](https://github.com/user-attachments/assets/a6b46185-82ce-46dc-b6ea-261e36acd268)
+<img src="https://github.com/user-attachments/assets/a6b46185-82ce-46dc-b6ea-261e36acd268" alt="Associate_Linkedin@2x" width="400">
 
-## Language
+### Language
 - Python 3 Data Analyst Certification
 
-## Others
+### Others
 - Fundamental Information Technology Engineer
 - CG-ARTS Image Processing Engineer: Expert
 
-</details>
