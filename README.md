@@ -16,8 +16,11 @@
 
 ### Cloud
 
-- Google Cloud ACE
-<img src="https://github.com/user-attachments/assets/a6b46185-82ce-46dc-b6ea-261e36acd268" alt="Associate_Linkedin@2x" width="400">
+- Google Cloud PCA
+
+<img width="256" height="256" alt="professional-cloud-architect" src="https://github.com/user-attachments/assets/44ecc1f2-762e-4155-9ce7-82e1ecea5808" />
+
+
 
 ### Language
 - Python 3 Data Analyst Certification
