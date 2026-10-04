@@ -18,7 +18,7 @@
 
 - Google Cloud PCA
 
-<img width="256" height="256" alt="professional-cloud-architect" src="https://github.com/user-attachments/assets/44ecc1f2-762e-4155-9ce7-82e1ecea5808" />
+<img width="3168" height="793" alt="Professional_Linkedin@2x" src="https://github.com/user-attachments/assets/23802e43-3d62-4fb7-88f4-e4869d120dba" />
 
 
 
